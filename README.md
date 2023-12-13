@@ -1,5 +1,5 @@
-# Hello-World
-A new begin               
-
-
-readme.md
+#include<stdio.h>
+int main(){
+    printf("Hello World");
+    return 0;
+}
