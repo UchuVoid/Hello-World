@@ -1,3 +1,5 @@
-# Hello-World
-# A new begin
-my name is UchuVoid
+#include<stdio.h>
+int main(){
+    printf("Hello World");
+    return 0;
+}
