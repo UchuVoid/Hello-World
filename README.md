@@ -1,3 +1,3 @@
 # Hello-World
-A new begin
+A new begin\n
 readme.md
